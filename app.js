@@ -20,6 +20,7 @@ const bookingRouter = require('./routes/bookingRoutes');
 const viewRouter = require('./routes/viewRouter');
 
 // CREATING THE MAIN APP FROM EXPRESS
+//start express
 const app = express();
 // here we use pu as a server rendereing template
 app.set('view engine', 'pug');
