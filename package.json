@@ -16,7 +16,7 @@
     "@babel/polyfill": "^7.10.1",
     "@stripe/stripe-js": "^1.7.0",
     "@wdio/cli": "^6.1.15",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "bufferutil": "^4.0.1",
     "cookie-parser": "^1.4.5",
